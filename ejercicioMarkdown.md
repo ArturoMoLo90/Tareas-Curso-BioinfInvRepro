@@ -1,4 +1,5 @@
-###Preparing the environment, cleaning the data for Stacks
+
+####Preparing the environment, cleaning the data for Stacks
 
 **1.** First, we will create a set of directories to place data in. At each step of the analysis, we will transform the data moving it from the `raw/` to `samples/` to `stacks/̣`.
 
