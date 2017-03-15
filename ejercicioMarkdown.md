@@ -1,5 +1,5 @@
-
 ####Preparing the environment, cleaning the data for Stacks
+
 
 **1.** First, we will create a set of directories to place data in. At each step of the analysis, we will transform the data moving it from the `raw/` to `samples/` to `stacks/̣`.
 
@@ -53,4 +53,4 @@ If, instead, you are using the output of the GERALD part of the Illumina pipelin
 After the last two steps, our working directory should look like this:
 
     ~/tutorial% ls
-    barcodes  raw/  samples/  stacks/
+    barcodes  raw/  samples/  stacks/miércoles, 15. marzo 2017 03:02 
